@@ -1,0 +1,2 @@
+# Moneyball
+Regresión lineal
